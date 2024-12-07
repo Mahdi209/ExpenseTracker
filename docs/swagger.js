@@ -10,7 +10,7 @@ const options = {
         },
         servers: [
             {
-                url: `https://expensetracker-b267.onrender.com/api/`,
+                url: `https://expensetracker-b267.onrender.com`,
                 description: 'Development server'
             }
         ],
