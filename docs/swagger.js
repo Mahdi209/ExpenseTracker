@@ -11,9 +11,8 @@ const options = {
         servers: [
             {
                 url: `https://expensetracker-b267.onrender.com/api/`,
-            }`,
-                description: 'Development server',
-            },
+                description: 'Development server'
+            }
         ],
         components: {
             securitySchemes: {
